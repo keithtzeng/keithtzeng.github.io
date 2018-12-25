@@ -14,5 +14,3 @@ twitter: ''
 # Advanced settings
 plugins:
   - jekyll-remote-theme
-
-theme: jekyll-theme-minimal
