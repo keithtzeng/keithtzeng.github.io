@@ -9,3 +9,8 @@ description: 'Quanta Computer, Inc.'
 dribbble: ''
 facebook: ''
 twitter: ''
+
+
+# Advanced settings
+plugins:
+  - jekyll-remote-theme
