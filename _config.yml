@@ -2,8 +2,12 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Keith Tzeng'
-description: 'Quanta Computer, Inc.'
+description: 'Quanta Computer, Inc.
+A simple introduction'
 
+# Images
+avatar: 'avatar.jpg'
+background: 'background.jpg'
 
 # Online profiles
 dribbble: ''
